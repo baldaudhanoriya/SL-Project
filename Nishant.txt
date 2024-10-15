@@ -1,0 +1,34 @@
+new file in separate branch.
+
+1. git clone https://github.com/baldaudhanoriya/SL-Project.git
+    Clone the repo.
+
+2. git checkout -b dev-nikc
+    switch to a new branch
+
+3. changes in file ./test/Nishant.txt
+    made changes to the file
+
+4. git add .
+    stage all changes
+
+5. git commit -m 'ready to push'
+    commit changes
+
+6. git push -u origin dev-nikc
+    push the changes to a newly created branch and set upstream branch
+
+7. git pull
+    pull to see if there are any changes
+
+8. changes in ./test/filename.txt
+    made changes in file
+
+9. git add .
+    stage all changes
+
+10. git commit -m 'changes 2'
+    commit changes
+
+11. git push
+    push the changes
