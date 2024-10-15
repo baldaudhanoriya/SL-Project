@@ -1,4 +1,4 @@
 This is sample text file made by Mayank Mehar for the SL Lab assignment.
 This is updated by mayank.
 
-this file is further update by baldau aftr performing a pull
+this file is further update by baldau after performing a pull
