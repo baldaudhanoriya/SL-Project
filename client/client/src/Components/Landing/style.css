@@ -1,0 +1,14 @@
+.landing-container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.graph-container{
+    border: 2px solid #999;
+    border-radius: 20px;
+    width: 95vw;
+    height: 85vh;
+    overflow: hidden;
+}

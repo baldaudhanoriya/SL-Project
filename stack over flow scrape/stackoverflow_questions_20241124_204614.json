@@ -1,0 +1,262 @@
+[
+    {
+        "tags": [
+            "kubernetes",
+            "prometheus",
+            "grafana",
+            "kube-prometheus-stack"
+        ],
+        "owner": {
+            "account_id": 10368503,
+            "reputation": 31,
+            "user_id": 7646863,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/bb0ae0caee174ea20791671b3a567be6?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "tmechsner",
+            "link": "https://stackoverflow.com/users/7646863/tmechsner"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732461313,
+        "creation_date": 1732461313,
+        "question_id": 79220400,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220400/kubernetes-capture-incoming-and-outgoing-traffic-by-namespace",
+        "title": "Kubernetes: capture incoming and outgoing traffic by namespace"
+    },
+    {
+        "tags": [
+            "java",
+            "spring-boot",
+            "apm",
+            "observability"
+        ],
+        "owner": {
+            "account_id": 10381620,
+            "reputation": 978,
+            "user_id": 8405699,
+            "user_type": "registered",
+            "accept_rate": 100,
+            "profile_image": "https://i.sstatic.net/8xnta.png?s=256",
+            "display_name": "Aldo In&#225;cio da Silva",
+            "link": "https://stackoverflow.com/users/8405699/aldo-in%c3%a1cio-da-silva"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732461290,
+        "creation_date": 1732461290,
+        "question_id": 79220398,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220398/how-to-configure-apm-agent-properties-on-yaml-file",
+        "title": "How to configure apm-agent properties on yaml file?"
+    },
+    {
+        "tags": [
+            "ionic-framework",
+            "moodle",
+            "moodle-mobile"
+        ],
+        "owner": {
+            "account_id": 21992895,
+            "reputation": 27,
+            "user_id": 26577968,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/99482aaaa6b485ae385aad4346f8c926?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "Sascha",
+            "link": "https://stackoverflow.com/users/26577968/sascha"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732461280,
+        "creation_date": 1732461280,
+        "question_id": 79220397,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220397/refresh-the-page-after-form-submit-moodle-ionic5",
+        "title": "Refresh the page after form submit (Moodle) (Ionic5)"
+    },
+    {
+        "tags": [
+            "symfony",
+            "phpstorm",
+            "windows-subsystem-for-linux"
+        ],
+        "owner": {
+            "account_id": 11371409,
+            "reputation": 28,
+            "user_id": 8336890,
+            "user_type": "registered",
+            "profile_image": "https://lh5.googleusercontent.com/-RDGhZb3iRDY/AAAAAAAAAAI/AAAAAAAAAlA/NCr5a8Xq_M8/photo.jpg?sz=256",
+            "display_name": "Pierre Causse",
+            "link": "https://stackoverflow.com/users/8336890/pierre-causse"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732461180,
+        "creation_date": 1732461180,
+        "question_id": 79220395,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220395/symfonys-framework-ide-config-for-phpstorm-and-wsl",
+        "title": "Symfony&#39;s framework.ide config for PhpStorm and WSL"
+    },
+    {
+        "tags": [
+            "spring",
+            "testing",
+            "microservices"
+        ],
+        "owner": {
+            "account_id": 23272691,
+            "reputation": 33,
+            "user_id": 17357311,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/faae61728b1c6235ba3218af4b2d6e8f?s=256&d=identicon&r=PG",
+            "display_name": "Ciberdead",
+            "link": "https://stackoverflow.com/users/17357311/ciberdead"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732461005,
+        "creation_date": 1732461005,
+        "question_id": 79220388,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220388/how-to-change-timeout-of-webtestclient",
+        "title": "how to change timeout of WebTestClient"
+    },
+    {
+        "tags": [
+            "android",
+            "android-jetpack-compose",
+            "material3"
+        ],
+        "owner": {
+            "account_id": 25744372,
+            "reputation": 35,
+            "user_id": 19497853,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a-/AFdZucqQx--LeorQtkl7An3Sk4NJzK0YmosaGXPl0podmw=k-s256",
+            "display_name": "Diyorbek Hamdamov",
+            "link": "https://stackoverflow.com/users/19497853/diyorbek-hamdamov"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732460930,
+        "creation_date": 1732460930,
+        "question_id": 79220384,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220384/pulltorefreshcontainer-not-pulling",
+        "title": "PullToRefreshContainer not pulling"
+    },
+    {
+        "tags": [
+            "visual-studio-code",
+            "vs-code-settings"
+        ],
+        "owner": {
+            "account_id": 52171,
+            "reputation": 53896,
+            "user_id": 155861,
+            "user_type": "registered",
+            "accept_rate": 85,
+            "profile_image": "https://i.sstatic.net/10Ld9.png?s=256",
+            "display_name": "xkeshav",
+            "link": "https://stackoverflow.com/users/155861/xkeshav"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732460867,
+        "creation_date": 1732460867,
+        "question_id": 79220383,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220383/vscode-file-nseting-pattern-getting-applied-to-internal-folder-also-how-to-excl",
+        "title": "vscode file nseting pattern getting applied to internal folder also; how to exclude to do so?"
+    },
+    {
+        "tags": [
+            "tomcat",
+            "jakarta-mail"
+        ],
+        "owner": {
+            "account_id": 3474721,
+            "reputation": 61,
+            "user_id": 3512508,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/4c42f32cf2a5b65c22da2a5752ff75fb?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "Ricardo Almeida",
+            "link": "https://stackoverflow.com/users/3512508/ricardo-almeida"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732460833,
+        "creation_date": 1732460833,
+        "question_id": 79220382,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220382/how-to-configure-jakarta-mail-angus-mail-in-tomcat-10-using-jndi",
+        "title": "How to configure Jakarta Mail/Angus Mail in Tomcat 10 using JNDI?"
+    },
+    {
+        "tags": [
+            "sql",
+            "teradata"
+        ],
+        "owner": {
+            "account_id": 7243545,
+            "reputation": 29,
+            "user_id": 5526289,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/d1fc242e1e39714dd078a279cf9bfa2c?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "Chug",
+            "link": "https://stackoverflow.com/users/5526289/chug"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732460705,
+        "creation_date": 1732460705,
+        "question_id": 79220378,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220378/distinct-product-grouping-based-on-a-set-of-columns-with-duplicate-rows",
+        "title": "Distinct product grouping based on a set of columns with duplicate rows"
+    },
+    {
+        "tags": [
+            "java",
+            "android-studio"
+        ],
+        "owner": {
+            "account_id": 27790726,
+            "reputation": 9,
+            "user_id": 21217220,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp6l6OvUk-Hx42HzdKtkB3qKDG_f4FwNmcXtm1E=k-s256",
+            "display_name": "Le Bao",
+            "link": "https://stackoverflow.com/users/21217220/le-bao"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1732460686,
+        "creation_date": 1732460686,
+        "question_id": 79220377,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/79220377/how-can-i-edit-an-image-in-imageview-in-android-studio",
+        "title": "How can I edit an image in ImageView in Android Studio?"
+    }
+]
